@@ -1,3 +1,6 @@
 [submodule "front"]
 	path = front
 	url = https://github.com/px57/ng-base.git
+[submodule "back"]
+	path = back
+	url = https://github.com/px57/dj-base.git
