@@ -6,6 +6,6 @@
 	url = https://github.com/px57/dj-base.git
 [submodule "flutter"]
         path = flutter
-        url = https://github.com/px57/dj-flutter.git
+        url = https://github.com/px57/fl-base.git
         
 
